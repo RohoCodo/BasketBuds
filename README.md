@@ -1,4 +1,4 @@
-# Harvest Landing Page
+# Harvest
 
 Astro + TypeScript website inspired by the provided mockup: a softly blurred garden atmosphere, warm cream content cards, and a three-role selector for Gardener, Farmer, and Harvester.
 
